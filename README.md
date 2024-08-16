@@ -8,3 +8,6 @@ This repository contains the source code for the official website of our Spanish
 - **JavaScript** for interactivity and dynamic elements
 
 This site is designed to be lightweight and user-friendly, feel free to explore the code and contribute if you have ideas for improvement!
+
+For now, the website is hosted on Netlify so you can check it out through this link ->
+https://es-en-languagecafe.netlify.app/index.html
